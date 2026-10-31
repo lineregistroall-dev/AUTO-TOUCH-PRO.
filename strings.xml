@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AUTO TOUCH PRO</string>
+    <string name="accessibility_description">Ejecuta toques repetidos en la posición elegida por el usuario.</string>
+</resources>
